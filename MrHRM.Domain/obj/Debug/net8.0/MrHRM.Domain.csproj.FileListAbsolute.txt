@@ -1,0 +1,11 @@
+X:\Apps\MrHRM\MrHRM.Domain\bin\Debug\net8.0\MrHRM.Domain.deps.json
+X:\Apps\MrHRM\MrHRM.Domain\bin\Debug\net8.0\MrHRM.Domain.dll
+X:\Apps\MrHRM\MrHRM.Domain\bin\Debug\net8.0\MrHRM.Domain.pdb
+X:\Apps\MrHRM\MrHRM.Domain\obj\Debug\net8.0\MrHRM.Domain.GeneratedMSBuildEditorConfig.editorconfig
+X:\Apps\MrHRM\MrHRM.Domain\obj\Debug\net8.0\MrHRM.Domain.AssemblyInfoInputs.cache
+X:\Apps\MrHRM\MrHRM.Domain\obj\Debug\net8.0\MrHRM.Domain.AssemblyInfo.cs
+X:\Apps\MrHRM\MrHRM.Domain\obj\Debug\net8.0\MrHRM.Domain.csproj.CoreCompileInputs.cache
+X:\Apps\MrHRM\MrHRM.Domain\obj\Debug\net8.0\MrHRM.Domain.dll
+X:\Apps\MrHRM\MrHRM.Domain\obj\Debug\net8.0\refint\MrHRM.Domain.dll
+X:\Apps\MrHRM\MrHRM.Domain\obj\Debug\net8.0\MrHRM.Domain.pdb
+X:\Apps\MrHRM\MrHRM.Domain\obj\Debug\net8.0\ref\MrHRM.Domain.dll

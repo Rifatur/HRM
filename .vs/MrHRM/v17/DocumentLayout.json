@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "X:\\Apps\\MrHRM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AAD28D-7159-44B9-9FE8-9E3D8E3BCFFB}|MrHRM.Application\\MrHRM.Application.csproj|x:\\apps\\mrhrm\\mrhrm.application\\applicationservicesregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AAD28D-7159-44B9-9FE8-9E3D8E3BCFFB}|MrHRM.Application\\MrHRM.Application.csproj|solutionrelative:mrhrm.application\\applicationservicesregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AAD28D-7159-44B9-9FE8-9E3D8E3BCFFB}|MrHRM.Application\\MrHRM.Application.csproj|x:\\apps\\mrhrm\\mrhrm.application\\features\\company\\handlers\\queries\\getcompanydetailsrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AAD28D-7159-44B9-9FE8-9E3D8E3BCFFB}|MrHRM.Application\\MrHRM.Application.csproj|solutionrelative:mrhrm.application\\features\\company\\handlers\\queries\\getcompanydetailsrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AAD28D-7159-44B9-9FE8-9E3D8E3BCFFB}|MrHRM.Application\\MrHRM.Application.csproj|x:\\apps\\mrhrm\\mrhrm.application\\features\\company\\requests\\getcompanydetailsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AAD28D-7159-44B9-9FE8-9E3D8E3BCFFB}|MrHRM.Application\\MrHRM.Application.csproj|solutionrelative:mrhrm.application\\features\\company\\requests\\getcompanydetailsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AAD28D-7159-44B9-9FE8-9E3D8E3BCFFB}|MrHRM.Application\\MrHRM.Application.csproj|x:\\apps\\mrhrm\\mrhrm.application\\features\\company\\handlers\\queries\\getcompanylistrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AAD28D-7159-44B9-9FE8-9E3D8E3BCFFB}|MrHRM.Application\\MrHRM.Application.csproj|solutionrelative:mrhrm.application\\features\\company\\handlers\\queries\\getcompanylistrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AAD28D-7159-44B9-9FE8-9E3D8E3BCFFB}|MrHRM.Application\\MrHRM.Application.csproj|x:\\apps\\mrhrm\\mrhrm.application\\features\\employee\\request\\getemplyeelistrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AAD28D-7159-44B9-9FE8-9E3D8E3BCFFB}|MrHRM.Application\\MrHRM.Application.csproj|solutionrelative:mrhrm.application\\features\\employee\\request\\getemplyeelistrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AAD28D-7159-44B9-9FE8-9E3D8E3BCFFB}|MrHRM.Application\\MrHRM.Application.csproj|x:\\apps\\mrhrm\\mrhrm.application\\features\\employee\\handlers\\queries\\getemployeelistrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AAD28D-7159-44B9-9FE8-9E3D8E3BCFFB}|MrHRM.Application\\MrHRM.Application.csproj|solutionrelative:mrhrm.application\\features\\employee\\handlers\\queries\\getemployeelistrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AAD28D-7159-44B9-9FE8-9E3D8E3BCFFB}|MrHRM.Application\\MrHRM.Application.csproj|x:\\apps\\mrhrm\\mrhrm.application\\persistence\\contracts\\icompanyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AAD28D-7159-44B9-9FE8-9E3D8E3BCFFB}|MrHRM.Application\\MrHRM.Application.csproj|solutionrelative:mrhrm.application\\persistence\\contracts\\icompanyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AAD28D-7159-44B9-9FE8-9E3D8E3BCFFB}|MrHRM.Application\\MrHRM.Application.csproj|x:\\apps\\mrhrm\\mrhrm.application\\features\\company\\requests\\getcompanylistrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AAD28D-7159-44B9-9FE8-9E3D8E3BCFFB}|MrHRM.Application\\MrHRM.Application.csproj|solutionrelative:mrhrm.application\\features\\company\\requests\\getcompanylistrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetCompanyDetailsRequestHandler.cs",
+              "DocumentMoniker": "X:\\Apps\\MrHRM\\MrHRM.Application\\Features\\Company\\Handlers\\Queries\\GetCompanyDetailsRequestHandler.cs",
+              "RelativeDocumentMoniker": "MrHRM.Application\\Features\\Company\\Handlers\\Queries\\GetCompanyDetailsRequestHandler.cs",
+              "ToolTip": "X:\\Apps\\MrHRM\\MrHRM.Application\\Features\\Company\\Handlers\\Queries\\GetCompanyDetailsRequestHandler.cs",
+              "RelativeToolTip": "MrHRM.Application\\Features\\Company\\Handlers\\Queries\\GetCompanyDetailsRequestHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T04:29:26.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetCompanyListRequest.cs",
+              "DocumentMoniker": "X:\\Apps\\MrHRM\\MrHRM.Application\\Features\\Company\\Requests\\GetCompanyListRequest.cs",
+              "RelativeDocumentMoniker": "MrHRM.Application\\Features\\Company\\Requests\\GetCompanyListRequest.cs",
+              "ToolTip": "X:\\Apps\\MrHRM\\MrHRM.Application\\Features\\Company\\Requests\\GetCompanyListRequest.cs",
+              "RelativeToolTip": "MrHRM.Application\\Features\\Company\\Requests\\GetCompanyListRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T04:28:20.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetCompanyDetailsRequest.cs",
+              "DocumentMoniker": "X:\\Apps\\MrHRM\\MrHRM.Application\\Features\\Company\\Requests\\GetCompanyDetailsRequest.cs",
+              "RelativeDocumentMoniker": "MrHRM.Application\\Features\\Company\\Requests\\GetCompanyDetailsRequest.cs",
+              "ToolTip": "X:\\Apps\\MrHRM\\MrHRM.Application\\Features\\Company\\Requests\\GetCompanyDetailsRequest.cs",
+              "RelativeToolTip": "MrHRM.Application\\Features\\Company\\Requests\\GetCompanyDetailsRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T04:28:07.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetEmployeeListRequestHandler.cs",
+              "DocumentMoniker": "X:\\Apps\\MrHRM\\MrHRM.Application\\Features\\Employee\\Handlers\\Queries\\GetEmployeeListRequestHandler.cs",
+              "RelativeDocumentMoniker": "MrHRM.Application\\Features\\Employee\\Handlers\\Queries\\GetEmployeeListRequestHandler.cs",
+              "ToolTip": "X:\\Apps\\MrHRM\\MrHRM.Application\\Features\\Employee\\Handlers\\Queries\\GetEmployeeListRequestHandler.cs",
+              "RelativeToolTip": "MrHRM.Application\\Features\\Employee\\Handlers\\Queries\\GetEmployeeListRequestHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T02:41:44.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetEmplyeeListRequest.cs",
+              "DocumentMoniker": "X:\\Apps\\MrHRM\\MrHRM.Application\\Features\\Employee\\Request\\GetEmplyeeListRequest.cs",
+              "RelativeDocumentMoniker": "MrHRM.Application\\Features\\Employee\\Request\\GetEmplyeeListRequest.cs",
+              "ToolTip": "X:\\Apps\\MrHRM\\MrHRM.Application\\Features\\Employee\\Request\\GetEmplyeeListRequest.cs",
+              "RelativeToolTip": "MrHRM.Application\\Features\\Employee\\Request\\GetEmplyeeListRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T02:39:19.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationServicesRegistration.cs",
+              "DocumentMoniker": "X:\\Apps\\MrHRM\\MrHRM.Application\\ApplicationServicesRegistration.cs",
+              "RelativeDocumentMoniker": "MrHRM.Application\\ApplicationServicesRegistration.cs",
+              "ToolTip": "X:\\Apps\\MrHRM\\MrHRM.Application\\ApplicationServicesRegistration.cs",
+              "RelativeToolTip": "MrHRM.Application\\ApplicationServicesRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T22:39:47.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICompanyRepository.cs",
+              "DocumentMoniker": "X:\\Apps\\MrHRM\\MrHRM.Application\\Persistence\\Contracts\\ICompanyRepository.cs",
+              "RelativeDocumentMoniker": "MrHRM.Application\\Persistence\\Contracts\\ICompanyRepository.cs",
+              "ToolTip": "X:\\Apps\\MrHRM\\MrHRM.Application\\Persistence\\Contracts\\ICompanyRepository.cs",
+              "RelativeToolTip": "MrHRM.Application\\Persistence\\Contracts\\ICompanyRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T04:33:49.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetCompanyListRequestHandler.cs",
+              "DocumentMoniker": "X:\\Apps\\MrHRM\\MrHRM.Application\\Features\\Company\\Handlers\\Queries\\GetCompanyListRequestHandler.cs",
+              "RelativeDocumentMoniker": "MrHRM.Application\\Features\\Company\\Handlers\\Queries\\GetCompanyListRequestHandler.cs",
+              "ToolTip": "X:\\Apps\\MrHRM\\MrHRM.Application\\Features\\Company\\Handlers\\Queries\\GetCompanyListRequestHandler.cs",
+              "RelativeToolTip": "MrHRM.Application\\Features\\Company\\Handlers\\Queries\\GetCompanyListRequestHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T23:06:59.374Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

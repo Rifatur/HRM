@@ -1,0 +1,17 @@
+X:\Apps\MrHRM\MrHRM.Infrastructure\bin\Debug\net8.0\MrHRM.Infrastructure.deps.json
+X:\Apps\MrHRM\MrHRM.Infrastructure\bin\Debug\net8.0\MrHRM.Infrastructure.runtimeconfig.json
+X:\Apps\MrHRM\MrHRM.Infrastructure\bin\Debug\net8.0\MrHRM.Infrastructure.dll
+X:\Apps\MrHRM\MrHRM.Infrastructure\bin\Debug\net8.0\MrHRM.Infrastructure.pdb
+X:\Apps\MrHRM\MrHRM.Infrastructure\obj\Debug\net8.0\MrHRM.Infrastructure.csproj.AssemblyReference.cache
+X:\Apps\MrHRM\MrHRM.Infrastructure\obj\Debug\net8.0\MrHRM.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+X:\Apps\MrHRM\MrHRM.Infrastructure\obj\Debug\net8.0\MrHRM.Infrastructure.AssemblyInfoInputs.cache
+X:\Apps\MrHRM\MrHRM.Infrastructure\obj\Debug\net8.0\MrHRM.Infrastructure.AssemblyInfo.cs
+X:\Apps\MrHRM\MrHRM.Infrastructure\obj\Debug\net8.0\MrHRM.Infrastructure.csproj.CoreCompileInputs.cache
+X:\Apps\MrHRM\MrHRM.Infrastructure\obj\Debug\net8.0\MrHRM.Infrastructure.dll
+X:\Apps\MrHRM\MrHRM.Infrastructure\obj\Debug\net8.0\refint\MrHRM.Infrastructure.dll
+X:\Apps\MrHRM\MrHRM.Infrastructure\obj\Debug\net8.0\MrHRM.Infrastructure.pdb
+X:\Apps\MrHRM\MrHRM.Infrastructure\obj\Debug\net8.0\MrHRM.Infrastructure.genruntimeconfig.cache
+X:\Apps\MrHRM\MrHRM.Infrastructure\obj\Debug\net8.0\ref\MrHRM.Infrastructure.dll
+X:\Apps\MrHRM\MrHRM.Infrastructure\bin\Debug\net8.0\MrHRM.Domain.dll
+X:\Apps\MrHRM\MrHRM.Infrastructure\bin\Debug\net8.0\MrHRM.Domain.pdb
+X:\Apps\MrHRM\MrHRM.Infrastructure\obj\Debug\net8.0\MrHRM.In.5F6FB083.Up2Date
