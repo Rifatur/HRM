@@ -17,7 +17,8 @@
 
   <ItemGroup>
     <Folder Include="Features\Company\Handlers\Commands\" />
-    <Folder Include="Features\Employee\Handlers\Commands\" />
+    <Folder Include="Features\Employee\Handlers\Commands\Delete\" />
+    <Folder Include="Features\Employee\Handlers\Commands\Update\" />
   </ItemGroup>
 
 </Project>
