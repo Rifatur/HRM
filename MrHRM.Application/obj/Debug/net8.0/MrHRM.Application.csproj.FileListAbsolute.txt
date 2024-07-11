@@ -13,3 +13,4 @@ X:\Apps\MrHRM\MrHRM.Application\bin\Debug\net8.0\MrHRM.Domain.dll
 X:\Apps\MrHRM\MrHRM.Application\bin\Debug\net8.0\MrHRM.Domain.pdb
 X:\Apps\MrHRM\MrHRM.Application\obj\Debug\net8.0\MrHRM.Application.csproj.AssemblyReference.cache
 X:\Apps\MrHRM\MrHRM.Application\obj\Debug\net8.0\MrHRM.Ap.6975530B.Up2Date
+X:\Apps\MrHRM\MrHRM.Application\obj\Debug\net8.0\MrHRM.Application.sourcelink.json

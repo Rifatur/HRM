@@ -138,3 +138,11 @@ X:\Apps\MrHRM\MyHRM.Web\obj\Debug\net8.0\MyHRM.Web.csproj.AssemblyReference.cach
 X:\Apps\MrHRM\MyHRM.Web\obj\Debug\net8.0\MyHRM.Web.csproj.Up2Date
 X:\Apps\MrHRM\MyHRM.Web\bin\Debug\net8.0\MrHRM.Domain.dll
 X:\Apps\MrHRM\MyHRM.Web\bin\Debug\net8.0\MrHRM.Domain.pdb
+X:\Apps\MrHRM\MyHRM.Web\bin\Debug\net8.0\AutoMapper.dll
+X:\Apps\MrHRM\MyHRM.Web\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+X:\Apps\MrHRM\MyHRM.Web\bin\Debug\net8.0\MediatR.dll
+X:\Apps\MrHRM\MyHRM.Web\bin\Debug\net8.0\MediatR.Contracts.dll
+X:\Apps\MrHRM\MyHRM.Web\bin\Debug\net8.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+X:\Apps\MrHRM\MyHRM.Web\bin\Debug\net8.0\MrHRM.Application.dll
+X:\Apps\MrHRM\MyHRM.Web\bin\Debug\net8.0\MrHRM.Application.pdb
+X:\Apps\MrHRM\MyHRM.Web\obj\Debug\net8.0\MyHRM.Web.sourcelink.json

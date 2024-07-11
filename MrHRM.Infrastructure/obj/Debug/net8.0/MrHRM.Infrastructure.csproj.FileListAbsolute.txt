@@ -15,3 +15,6 @@ X:\Apps\MrHRM\MrHRM.Infrastructure\obj\Debug\net8.0\ref\MrHRM.Infrastructure.dll
 X:\Apps\MrHRM\MrHRM.Infrastructure\bin\Debug\net8.0\MrHRM.Domain.dll
 X:\Apps\MrHRM\MrHRM.Infrastructure\bin\Debug\net8.0\MrHRM.Domain.pdb
 X:\Apps\MrHRM\MrHRM.Infrastructure\obj\Debug\net8.0\MrHRM.In.5F6FB083.Up2Date
+X:\Apps\MrHRM\MrHRM.Infrastructure\bin\Debug\net8.0\MrHRM.Application.dll
+X:\Apps\MrHRM\MrHRM.Infrastructure\bin\Debug\net8.0\MrHRM.Application.pdb
+X:\Apps\MrHRM\MrHRM.Infrastructure\obj\Debug\net8.0\MrHRM.Infrastructure.sourcelink.json

@@ -1,5 +1,6 @@
 ﻿using AutoMapper;
 using MrHRM.Application.DTOs.HR;
+using MrHRM.Application.Features.Department.Command.Create;
 using MrHRM.Domain.Entities;
 using MrHRM.Domain.Entities.HR;
 
@@ -14,6 +15,8 @@ namespace MrHRM.Application.Profiles
             CreateMap<Department, DepartmentDTOs>().ReverseMap();
             CreateMap<Designation, DesignationDTOs>().ReverseMap();
             CreateMap<Client, ClientDTOs>().ReverseMap();
+
+            CreateMap<Department, CreateDepartmentCommand>();
         }
     }
 }
