@@ -19,7 +19,6 @@
     <Folder Include="Features\Company\Handlers\Commands\" />
     <Folder Include="Features\Department\Command\Delete\" />
     <Folder Include="Features\Department\Command\Update\" />
-    <Folder Include="Features\Department\Queries\Get\" />
     <Folder Include="Features\Department\Queries\List\" />
     <Folder Include="Features\Employee\Handlers\Commands\Delete\" />
     <Folder Include="Features\Employee\Handlers\Commands\Update\" />
