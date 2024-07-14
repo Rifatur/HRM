@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "X:\\Apps\\MrHRM\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D5AAD28D-7159-44B9-9FE8-9E3D8E3BCFFB}|MrHRM.Application\\MrHRM.Application.csproj|x:\\apps\\mrhrm\\mrhrm.application\\features\\department\\queries\\list\\listdepartmentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AAD28D-7159-44B9-9FE8-9E3D8E3BCFFB}|MrHRM.Application\\MrHRM.Application.csproj|solutionrelative:mrhrm.application\\features\\department\\queries\\list\\listdepartmentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AAD28D-7159-44B9-9FE8-9E3D8E3BCFFB}|MrHRM.Application\\MrHRM.Application.csproj|x:\\apps\\mrhrm\\mrhrm.application\\features\\department\\queries\\list\\listdepartmentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AAD28D-7159-44B9-9FE8-9E3D8E3BCFFB}|MrHRM.Application\\MrHRM.Application.csproj|solutionrelative:mrhrm.application\\features\\department\\queries\\list\\listdepartmentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D5AAD28D-7159-44B9-9FE8-9E3D8E3BCFFB}|MrHRM.Application\\MrHRM.Application.csproj|x:\\apps\\mrhrm\\mrhrm.application\\features\\department\\queries\\get\\getdepartmentbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5AAD28D-7159-44B9-9FE8-9E3D8E3BCFFB}|MrHRM.Application\\MrHRM.Application.csproj|solutionrelative:mrhrm.application\\features\\department\\queries\\get\\getdepartmentbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -63,6 +71,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ListDepartmentCommandHandler.cs",
+              "DocumentMoniker": "X:\\Apps\\MrHRM\\MrHRM.Application\\Features\\Department\\Queries\\List\\ListDepartmentCommandHandler.cs",
+              "RelativeDocumentMoniker": "MrHRM.Application\\Features\\Department\\Queries\\List\\ListDepartmentCommandHandler.cs",
+              "ToolTip": "X:\\Apps\\MrHRM\\MrHRM.Application\\Features\\Department\\Queries\\List\\ListDepartmentCommandHandler.cs",
+              "RelativeToolTip": "MrHRM.Application\\Features\\Department\\Queries\\List\\ListDepartmentCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T17:04:11.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListDepartmentCommand.cs",
+              "DocumentMoniker": "X:\\Apps\\MrHRM\\MrHRM.Application\\Features\\Department\\Queries\\List\\ListDepartmentCommand.cs",
+              "RelativeDocumentMoniker": "MrHRM.Application\\Features\\Department\\Queries\\List\\ListDepartmentCommand.cs",
+              "ToolTip": "X:\\Apps\\MrHRM\\MrHRM.Application\\Features\\Department\\Queries\\List\\ListDepartmentCommand.cs",
+              "RelativeToolTip": "MrHRM.Application\\Features\\Department\\Queries\\List\\ListDepartmentCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T17:03:33.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "GetDepartmentByIdHandler.cs",
               "DocumentMoniker": "X:\\Apps\\MrHRM\\MrHRM.Application\\Features\\Department\\Queries\\Get\\GetDepartmentByIdHandler.cs",
               "RelativeDocumentMoniker": "MrHRM.Application\\Features\\Department\\Queries\\Get\\GetDepartmentByIdHandler.cs",
@@ -75,7 +109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "GetDepartmentByID.cs",
               "DocumentMoniker": "X:\\Apps\\MrHRM\\MrHRM.Application\\Features\\Department\\Queries\\Get\\GetDepartmentByID.cs",
               "RelativeDocumentMoniker": "MrHRM.Application\\Features\\Department\\Queries\\Get\\GetDepartmentByID.cs",
@@ -83,12 +117,11 @@
               "RelativeToolTip": "MrHRM.Application\\Features\\Department\\Queries\\Get\\GetDepartmentByID.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T16:29:52.449Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T16:29:52.449Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "CreateDepartmentCommandHandler.cs",
               "DocumentMoniker": "X:\\Apps\\MrHRM\\MrHRM.Application\\Features\\Department\\Command\\Create\\CreateDepartmentCommandHandler.cs",
               "RelativeDocumentMoniker": "MrHRM.Application\\Features\\Department\\Command\\Create\\CreateDepartmentCommandHandler.cs",
@@ -96,12 +129,11 @@
               "RelativeToolTip": "MrHRM.Application\\Features\\Department\\Command\\Create\\CreateDepartmentCommandHandler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T22:59:19.502Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-10T22:59:19.502Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "GenericRepository.cs",
               "DocumentMoniker": "X:\\Apps\\MrHRM\\MrHRM.Infrastructure\\Repository\\GenericRepository.cs",
               "RelativeDocumentMoniker": "MrHRM.Infrastructure\\Repository\\GenericRepository.cs",
@@ -113,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Department.cs",
               "DocumentMoniker": "X:\\Apps\\MrHRM\\MrHRM.Domain\\Entities\\HR\\Department.cs",
               "RelativeDocumentMoniker": "MrHRM.Domain\\Entities\\HR\\Department.cs",
@@ -125,7 +157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "DepartmentDTOs.cs",
               "DocumentMoniker": "X:\\Apps\\MrHRM\\MrHRM.Application\\DTOs\\HR\\DepartmentDTOs.cs",
               "RelativeDocumentMoniker": "MrHRM.Application\\DTOs\\HR\\DepartmentDTOs.cs",
@@ -133,12 +165,11 @@
               "RelativeToolTip": "MrHRM.Application\\DTOs\\HR\\DepartmentDTOs.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T21:50:25.384Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-10T21:50:25.384Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "CreateDepartmentCommand.cs",
               "DocumentMoniker": "X:\\Apps\\MrHRM\\MrHRM.Application\\Features\\Department\\Command\\Create\\CreateDepartmentCommand.cs",
               "RelativeDocumentMoniker": "MrHRM.Application\\Features\\Department\\Command\\Create\\CreateDepartmentCommand.cs",
@@ -150,7 +181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "IDesignationRepository.cs",
               "DocumentMoniker": "X:\\Apps\\MrHRM\\MrHRM.Application\\Persistence\\Contracts\\IDesignationRepository.cs",
               "RelativeDocumentMoniker": "MrHRM.Application\\Persistence\\Contracts\\IDesignationRepository.cs",
@@ -162,7 +193,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "IGenericRepository.cs",
               "DocumentMoniker": "X:\\Apps\\MrHRM\\MrHRM.Application\\Persistence\\Contracts\\IGenericRepository.cs",
               "RelativeDocumentMoniker": "MrHRM.Application\\Persistence\\Contracts\\IGenericRepository.cs",
@@ -174,7 +205,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "MappingProfile.cs",
               "DocumentMoniker": "X:\\Apps\\MrHRM\\MrHRM.Application\\Profiles\\MappingProfile.cs",
               "RelativeDocumentMoniker": "MrHRM.Application\\Profiles\\MappingProfile.cs",
